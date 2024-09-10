@@ -1,4 +1,9 @@
 # Led-control-using-Arduino
+```
+NAME : VINISHRAJ R
+REG NO : 212223230243
+
+```
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
