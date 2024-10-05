@@ -85,7 +85,11 @@ void loop() {
 ```
 
 ### OUTPUT
+
+#### LIGHT OFF
 ![Screenshot 2024-09-10 140941](https://github.com/user-attachments/assets/fb8976af-eb13-4776-afde-11cb18c4555d)
+
+#### LIGHT ON
 ![Screenshot 2024-09-10 140957](https://github.com/user-attachments/assets/55ed5d67-7fdc-4138-8499-f1dac071c440)
 
 
