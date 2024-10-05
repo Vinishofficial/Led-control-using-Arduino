@@ -1,7 +1,7 @@
-# NAME : VINISHRAJ R
-# REGISTER NO : 212223230243
+## NAME : VINISHRAJ R
+## REGISTER NO : 212223230243
 
-## EX NO 1 : Led-control-using-Arduino
+# EX NO 1 : Led-control-using-Arduino
 
 ### AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
